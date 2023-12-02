@@ -1,7 +1,7 @@
 train(){
+printf("train");
+printf("Second feature added");
 
-print("train");
-printf("The first feature is added");
 }
 
 predict(){
