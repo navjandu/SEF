@@ -6,4 +6,5 @@ print("train");
 predict(){
 
 printf("predict");
+printf("Second feature added");
 }
