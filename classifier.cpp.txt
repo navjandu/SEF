@@ -1,0 +1,9 @@
+train(){
+
+print("train");
+}
+
+predict(){
+
+printf("predict");
+}
