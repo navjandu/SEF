@@ -1,10 +1,10 @@
 train(){
 
-print("train");
+printf("train");
+printf("Second feature added");
 }
 
 predict(){
 
 printf("predict");
-printf("Second feature added");
 }
